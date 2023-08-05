@@ -9,7 +9,7 @@
 
   [![GoReportCard](https://goreportcard.com/badge/github.com/ggoodwin/go-encrypto)](https://goreportcard.com/report/github.com/ggoodwin/go-encrypto) [![CodeFactor](https://www.codefactor.io/repository/github/ggoodwin/go-encrypto/badge)](https://www.codefactor.io/repository/github/ggoodwin/go-encrypto) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/17f51d3e54264211b19220ce470783ae)](https://app.codacy.com/gh/ggoodwin/go-encrypto/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) [![codecov](https://codecov.io/gh/ggoodwin/go-encrypto/branch/master/graph/badge.svg?token=YNDB8EF3ZN)](https://codecov.io/gh/ggoodwin/go-encrypto)
 
-  [![Build](https://github.com/ggoodwin/go-encrypto/actions/workflows/build.yml/badge.svg)](https://github.com/ggoodwin/go-encrypto/actions/workflows/build.yml) [![lint](https://github.com/ggoodwin/go-encrypto/actions/workflows/lint.yml/badge.svg)](https://github.com/ggoodwin/go-encrypto/actions/workflows/lint.yml) [![CodeQL](https://github.com/ggoodwin/go-encrypto/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/ggoodwin/go-encrypto/actions/workflows/github-code-scanning/codeql)
+  [![Build](https://github.com/ggoodwin/go-encrypto/actions/workflows/go.yml/badge.svg)](https://github.com/ggoodwin/go-encrypto/actions/workflows/go.yml) [![lint](https://github.com/ggoodwin/go-encrypto/actions/workflows/lint.yml/badge.svg)](https://github.com/ggoodwin/go-encrypto/actions/workflows/lint.yml) [![CodeQL](https://github.com/ggoodwin/go-encrypto/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/ggoodwin/go-encrypto/actions/workflows/github-code-scanning/codeql)
 
 </div>
 
