@@ -1,6 +1,6 @@
 <div align="center">
-	<h1><img alt="stocks-go logo" src="https://github.com/ggoodwin/goencrypto/blob/master/logo.png" height="200" /><br />
-		GoEncrypto Go Package
+	<h1><img alt="go-encrypto logo" src="https://github.com/ggoodwin/go-encrypto/blob/master/logo.png" height="200" /><br />
+		Encrypto Go Package
 	</h1>
 
   [![GMan#0001](https://dcbadge.vercel.app/api/shield/179795086543028224)](https://discord.id/?prefill=179795086543028224)
